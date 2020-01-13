@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: cornsilk;
+  background-size: cover;
+}
+.box{
+  width: 450px;
+  background: rgba(3, 39, 27, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: rgb(238, 237, 237);
+  font-family: 'Century Gothic',sans-serif;
+}
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
